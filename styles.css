@@ -1,0 +1,8 @@
+.button-add,
+.button-delete,
+.button-delete-all {
+  font-size: 14px;
+  border-radius: 20px;
+  padding: 5px 15px;
+  margin: 10px;
+}
